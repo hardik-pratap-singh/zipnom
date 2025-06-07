@@ -30,7 +30,7 @@ elem2.click()
 
 input1 = driver.find_element(By.XPATH, "/html/body/div[13]/div[2]/div[2]/div[3]/div/div/div/div[2]/form/div/div[2]/input")
 # input1.clear()
-input1.send_keys("8115887652")
+input1.send_keys("")
 
 checkbox = driver.find_element(By.XPATH, "/html/body/div[13]/div[2]/div[2]/div[3]/div/div/div/div[4]/input")
 checkbox.click()

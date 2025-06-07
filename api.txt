@@ -1,0 +1,17 @@
+https://api.data.gov.in/resource/4dbe5667-7b6b-41d7-82af-211562424d9a?api-key=579b464db66ec23bdd0000010405ae7da9be4ca674fcfe64852d81c0&format=json&limit=1000
+
+format : 
+Query Parameters
+api-key
+579b464db66ec23bdd0000010405ae7da9be4ca674fcfe64852d81c0
+format
+json
+limit
+1000
+
+
+Name - TEST EMAIL
+User Name - testemail_311
+
+username : testingzipnom
+passwd : Zipnom@28
